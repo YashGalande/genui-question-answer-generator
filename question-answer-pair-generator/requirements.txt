@@ -1,0 +1,12 @@
+langchain
+streamlit
+huggingface_hub
+Chromadb
+pypdf
+sentence-transformers
+torch
+accelerate
+llama-cpp-python
+
+transformers
+pandas
